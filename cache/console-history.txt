@@ -1,0 +1,2 @@
+await NftContract.tokenURI(0)
+const NftContract = await ethers.getContract("TradingCardNFT")
